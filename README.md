@@ -1,29 +1,32 @@
 # My Bioinformatics Learning Journey 🧬💻
 
-This repository is a collection of my early projects and exercises as I transition from Pharmacy to Bioinformatics. It documents my progress in learning Python and its applications in clinical genomics.
+This repository documents my transition from Pharmacy to Bioinformatics, showcasing Python tools developed to solve real-world biological and clinical problems.
 
 ---
 
 ## 🚀 Projects & Exercises
 
 ### 1. Clinical Dosage & Safety Basics
-**Stage:** Learning Python Basics & Logic.
-- **Description:** A simple tool to practice calculating patient-specific dosages and checking for basic safety interactions.
+**Stage:** Python Basics & Mathematical Modeling.
+- **Description:** A simple tool for calculating patient-specific dosages and checking basic safety interactions.
 - **Files:** `Clinical_Dosage_Analyzer.ipynb`
 
 ### 2. Pharmacogenomics (PGx) Support Tool
-**Stage:** Learning Data Management & Clinical Logic.
-- **Description:** An exercise to understand how to link genomic variants with drug recommendations based on CPIC guidelines.
+**Stage:** Data Management & Clinical Logic.
+- **Description:** An exercise to link genomic variants (e.g., CYP2C19) with drug recommendations based on CPIC guidelines.
 - **Files:** `PGx_Analysis_Tool.ipynb`, `drugsdata.csv`
+
+### 3. DNA Sequence Mutation Scanner
+**Stage:** Advanced Logic & Genomic Parsing.
+- **Description:** A tool that searches for specific gene segments (Motifs) within raw DNA sequences. It calculates sequence length and detects "Frameshift Mutations" by validating if the segment length is a multiple of 3 (Codon logic).
+- **Files:** `DNA_Sequence_Analysis.ipynb`
 
 ---
 
 ## 🛠 Skills I'm Practicing
-- Python for Healthcare.
-- Data Analysis with Pandas.
 - Clinical Decision Support Systems (CDSS).
+- Genomic Data Parsing (DNA/RNA).
+- Python for Healthcare Data (Pandas, Logic).
 
 ## 💡 How to explore
-Each file represents a step in my learning. You can run the notebooks in Google Colab. (Note: For the PGx tool, ensure `drugsdata.csv` is uploaded to the session).
-- Google Colab & GitHub
-
+Run the notebooks in Google Colab. Each file represents a different step in my learning journey.
