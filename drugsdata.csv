@@ -1,0 +1,4 @@
+drug_name,gene ,recommendation 
+Warfarin ,VKORC1,Adjust initial dose based on genotype to avoid bleeding risk.
+Aspirin ,CYP2C19,Standard dosing; genetic impact is less clinically significant than others. 
+Clopidogrel,PTGS1,"Poor metabolizers should use alternative (e.g., Prasugrel)."
