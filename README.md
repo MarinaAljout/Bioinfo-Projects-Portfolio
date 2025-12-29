@@ -27,6 +27,12 @@ This repository documents my transition from Pharmacy to Bioinformatics, showcas
 * **Description:** A more advanced tool that simulates the translation of mRNA into protein sequences. It features a mutation simulator and calculates the total Molecular Weight (in Daltons) of the resulting protein, helping to visualize the impact of Nonsense and Missense mutations.
 * **Files:** `Protein_Synthesis_Tool.ipynb`
 
+### 5. Genomic Data Statistics & Visualization
+**Stage:** Advanced Data Handling & Statistical Plotting.
+
+* **Description:** A robust tool for processing multi-sequence FASTA files. It performs comparative sequence analysis (calculating total counts, average/max/min lengths, and GC content) and generates a distribution histogram to visualize genomic data variability.
+* **Files:** `Genomic_Data_Analysis_Orchid_Dataset.ipynb`
+
 ---
 
 ## 🛠 Skills I'm Practicing
