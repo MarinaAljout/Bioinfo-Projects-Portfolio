@@ -21,6 +21,12 @@ This repository documents my transition from Pharmacy to Bioinformatics, showcas
 - **Description:** A tool that searches for specific gene segments (Motifs) within raw DNA sequences. It calculates sequence length and detects "Frameshift Mutations" by validating if the segment length is a multiple of 3 (Codon logic).
 - **Files:** `DNA_Sequence_Analysis.ipynb`
 
+### 4. Protein Synthesis & Mutation Analyzer
+**Stage:** Biochemical Modeling & Physicochemical Analysis.
+
+* **Description:** A more advanced tool that simulates the translation of mRNA into protein sequences. It features a mutation simulator and calculates the total Molecular Weight (in Daltons) of the resulting protein, helping to visualize the impact of Nonsense and Missense mutations.
+* **Files:** `Protein_Synthesis_Tool.ipynb`
+
 ---
 
 ## 🛠 Skills I'm Practicing
