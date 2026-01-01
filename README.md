@@ -33,12 +33,22 @@ This repository documents my transition from Pharmacy to Bioinformatics, showcas
 * **Description:** A robust tool for processing multi-sequence FASTA files. It performs comparative sequence analysis (calculating total counts, average/max/min lengths, and GC content) and generates a distribution histogram to visualize genomic data variability.
 * **Files:** `Genomic_Data_Analysis_Orchid_Dataset.ipynb`
 
+### 6. COVID-19 Virtual Drug Screening Tool
+**Stage:** Computational Chemistry & Molecular Docking.
+
+* **Description:** A simulation tool that performs "Molecular Docking" to predict the effectiveness of various FDA-approved drugs against the COVID-19 virus. The tool automates testing multiple molecules (e.g., Etoricoxib, Ibuprofen, Codeine) against the SARS-CoV-2 Main Protease (PDB: 6LU7), calculates binding affinities (kcal/mol), and ranks them to identify the most potent inhibitor. It includes interactive 3D visualization of the protein-drug complex to analyze binding sites.
+* **Files:** `COVID19_Docking_Screening.ipynb`, `receptor.pdbqt`
+
 ---
 
 ## 🛠 Skills I'm Practicing
-- Clinical Decision Support Systems (CDSS).
-- Genomic Data Parsing (DNA/RNA).
-- Python for Healthcare Data (Pandas, Logic).
+- **Clinical Decision Support Systems (CDSS):** Dosage calculation and safety logic.
+- **Genomic Data Parsing:** DNA/RNA sequence analysis and mutation scanning.
+- **Computational Drug Discovery:** Molecular docking simulations and virtual screening.
+- **3D Molecular Visualization:** Rendering protein-ligand complexes using `py3Dmol`.
+- **Chemical Informatics:** Handling SMILES strings and molecular file formats (PDB, PDBQT).
+- **Python for Healthcare:** Using logic and data handling to solve pharmacological problems.
+
 
 ## 💡 How to explore
 Run the notebooks in Google Colab. Each file represents a different step in my learning journey.
