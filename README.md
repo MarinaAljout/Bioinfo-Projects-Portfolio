@@ -59,12 +59,18 @@ This repository documents my transition from Pharmacy to Bioinformatics, showcas
 * **Description:** A core medical data processing script utilizing vector manipulation and data frames to analyze blood glucose profiles. Features automated clinical threshold filtering (>130 mg/dl) and structured base R data visualization with baseline risk markers.
 * **Files:** 'Patient_Health_Data_Analysis_Basics.ipynb'
 
+### 2. Drug Efficacy Analysis
+* **Stage:** Advanced data manipulation & data visualization (Tidyverse).
+
+* **Description:** A clinical script utilizing the Tidyverse ecosystem to simulate and evaluate drug efficacy. It tracks blood pressure changes across multiple treatment groups using "dplyr" pipelines and visualizes the average metrics with "ggplot2".
+* **Files:** Drug_Efficacy_Analysis.ipynb
+
 ---
 
 ##  🛠 Skills Implemented (R Portfolio)
-- **Clinical Data Architecture:** Structuring heterogeneous healthcare variables into native data frames.
-- **Vectorized Filtering:** Implementing logical indexing and precise matrix-subsetting functions '[Rows,  Columns'].
-- **Exploratory Visual Analytics:** Designing responsive graphical plots ('barplots') overlaid with calculated baseline parameters ('abline').
+- **Clinical Data Architecture & Wrangling:** Simulating patient cohorts and transforming clinical data using Base R and 'Tidyverse' (dplyr).
+- **Clinical Filtering:** Applying logical indexing and threshold filtering to analyze patient metrics.
+- **Data Visualizatin:** Creating medical charts ranging from basic R 'barplots' to advanced 'ggplot2' graphics.
 
 ---
 
