@@ -65,11 +65,17 @@ This repository documents my transition from Pharmacy to Bioinformatics, showcas
 * **Description:** A clinical script utilizing the Tidyverse ecosystem to simulate and evaluate drug efficacy. It tracks blood pressure changes across multiple treatment groups using "dplyr" pipelines and visualizes the average metrics with "ggplot2".
 * **Files:** Drug_Efficacy_Analysis.ipynb
 
+### 3. Clinical Hypothesis Testing
+* **Stage:** Basic biostatistics & inferential statistics.
+
+* **Description:** A biostatistical script evaluating drug efficacy through hypothesis testing. It applies a Paired t-test to compare blood pressure metrics before and after treatment, computing p-values and 95% confidence intervals to confirm statistical significance.
+* **Files:** Clinical_Hypothesis_Testing.ipynb
+
 ---
 
 ##  🛠 Skills Implemented (R Portfolio)
 - **Clinical Data Architecture & Wrangling:** Simulating patient cohorts and transforming clinical data using Base R and 'Tidyverse' (dplyr).
-- **Clinical Filtering:** Applying logical indexing and threshold filtering to analyze patient metrics.
+- **Clinical Filtering & Testing:** Applying logical indexing and inferential statistics (t.test) to evaluate patient metrics.
 - **Data Visualizatin:** Creating medical charts ranging from basic R 'barplots' to advanced 'ggplot2' graphics.
 
 ---
