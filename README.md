@@ -1,10 +1,10 @@
 # My Bioinformatics Learning Journey 🧬💻
 
-This repository documents my transition from Pharmacy to Bioinformatics, showcasing Python tools developed to solve real-world biological and clinical problems.
+This repository documents my transition from Pharmacy to Bioinformatics, showcasing programming tools developed to solve real-world biological and clinical problems.
 
 ---
 
-## 🚀 Projects & Exercises
+## 🚀 Projects & Exercises (Python)
 
 ### 1. Clinical Dosage & Safety Basics
 **Stage:** Python Basics & Mathematical Modeling.
@@ -41,7 +41,7 @@ This repository documents my transition from Pharmacy to Bioinformatics, showcas
 
 ---
 
-## 🛠 Skills I'm Practicing
+## 🛠 Skills Implemented (Python Portfolio)
 - **Clinical Decision Support Systems (CDSS):** Dosage calculation and safety logic.
 - **Genomic Data Parsing:** DNA/RNA sequence analysis and mutation scanning.
 - **Computational Drug Discovery:** Molecular docking simulations and virtual screening.
@@ -49,6 +49,25 @@ This repository documents my transition from Pharmacy to Bioinformatics, showcas
 - **Chemical Informatics:** Handling SMILES strings and molecular file formats (PDB, PDBQT).
 - **Python for Healthcare:** Using logic and data handling to solve pharmacological problems.
 
+---
+
+## 🚀 Projects & Exercises (R)
+
+### 1. Patient Clinical Data Analytics
+* **Stage:** Exploratory data analysis & clinical logic.
+
+* **Description:** A core medical data processing script utilizing vector manipulation and data frames to analyze blood glucose profiles. Features automated clinical threshold filtering (>130 mg/dl) and structured base R data visualization with baseline risk markers.
+* **Files:** 'Patient_Health_Data_Analysis_Basics.ipynb'
+
+---
+
+##  🛠 Skills Implemented (R Portfolio)
+- **Clinical Data Architecture:** Structuring heterogeneous healthcare variables into native data frames.
+- **Vectorized Filtering:** Implementing logical indexing and precise matrix-subsetting functions '[Rows,  Columns'].
+- **Exploratory Visual Analytics:** Designing responsive graphical plots ('barplots') overlaid with calculated baseline parameters ('abline').
+
+---
 
 ## 💡 How to explore
-Run the notebooks in Google Colab. Each file represents a different step in my learning journey.
+1. Ensure you are on the correct language branch ('Python-Projects' or 'R-Projects').
+2. Run the notebooks in Google Colab. Each file represents a different step in my learning journey.
