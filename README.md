@@ -71,12 +71,30 @@ This repository documents my transition from Pharmacy to Bioinformatics, showcas
 * **Description:** A biostatistical script evaluating drug efficacy through hypothesis testing. It applies a Paired t-test to compare blood pressure metrics before and after treatment, computing p-values and 95% confidence intervals to confirm statistical significance.
 * **Files:** Clinical_Hypothesis_Testing.ipynb
 
+### 4. Predective Medical Modeling
+* **Stage:** Regression analysis & predective modeling.
+
+* **Description:** Implementing multiple linear regression (lm) to model and predict patient blood pressure based on physiological features like age ad weight.
+* **Files:** Linear_Regression.ipynb
+
+### 5. Multi-Group Clinical Comparison
+* **Stage:** Advanced biostatistics (ANOVA).
+
+* **Description:** Running analysis of Variance (aov) and Tukey's Post-Hoc tests to evaluate and compare statistical efficacy across multiple distinct drug families.
+* **Files:** ANOVA_Test.ipynb
+
+### 6. Clinical Data Cleaning & Preprocessing
+* **Stage:** Real-world data wrangling.
+
+* **Description:** Handling missing clinical observations (NA imputation) and filtering physiological outliers to prepare raw health datasets for safe analysis.
+* **Files:** Handling_Missing_Data_And_Outliers.ipynb
+
 ---
 
 ##  🛠 Skills Implemented (R Portfolio)
-- **Clinical Data Architecture & Wrangling:** Simulating patient cohorts and transforming clinical data using Base R and 'Tidyverse' (dplyr).
-- **Clinical Filtering & Testing:** Applying logical indexing and inferential statistics (t.test) to evaluate patient metrics.
-- **Data Visualizatin:** Creating medical charts ranging from basic R 'barplots' to advanced 'ggplot2' graphics.
+- **Clinical Data Architecture & Wrangling:** Simulating reproducible patient cohorts and cleaning raw/incomplete healthcare datasets using Base R and Tidyverse (dplyr).
+- **Biostatistical Inference & Modling:** Applying advanced statistical tests (t.test, ANOVA) and predictive linear modeling (lm) to validate clinical hypothesis.
+- **Biomedical Visual Analytics:** Designing responsive charts and publication-grade graphs using foundational R graphics and professional ggplot2 themes.
 
 ---
 
