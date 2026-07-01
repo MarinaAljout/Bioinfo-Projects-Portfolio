@@ -1,10 +1,10 @@
 # My Bioinformatics Learning Journey 🧬💻
 
-This repository documents my transition from Pharmacy to Bioinformatics, showcasing Python tools developed to solve real-world biological and clinical problems.
+This repository documents my transition from Pharmacy to Bioinformatics, showcasing programming tools developed to solve real-world biological and clinical problems.
 
 ---
 
-## 🚀 Projects & Exercises
+## 🚀 Projects & Exercises (Python)
 
 ### 1. Clinical Dosage & Safety Basics
 **Stage:** Python Basics & Mathematical Modeling.
@@ -41,7 +41,7 @@ This repository documents my transition from Pharmacy to Bioinformatics, showcas
 
 ---
 
-## 🛠 Skills I'm Practicing
+## 🛠 Skills Implemented (Python Portfolio)
 - **Clinical Decision Support Systems (CDSS):** Dosage calculation and safety logic.
 - **Genomic Data Parsing:** DNA/RNA sequence analysis and mutation scanning.
 - **Computational Drug Discovery:** Molecular docking simulations and virtual screening.
@@ -49,6 +49,55 @@ This repository documents my transition from Pharmacy to Bioinformatics, showcas
 - **Chemical Informatics:** Handling SMILES strings and molecular file formats (PDB, PDBQT).
 - **Python for Healthcare:** Using logic and data handling to solve pharmacological problems.
 
+---
+
+## 🚀 Projects & Exercises (R)
+
+### 1. Patient Clinical Data Analytics
+* **Stage:** Exploratory data analysis & clinical logic.
+
+* **Description:** A core medical data processing script utilizing vector manipulation and data frames to analyze blood glucose profiles. Features automated clinical threshold filtering (>130 mg/dl) and structured base R data visualization with baseline risk markers.
+* **Files:** 'Patient_Health_Data_Analysis_Basics.ipynb'
+
+### 2. Drug Efficacy Analysis
+* **Stage:** Advanced data manipulation & data visualization (Tidyverse).
+
+* **Description:** A clinical script utilizing the Tidyverse ecosystem to simulate and evaluate drug efficacy. It tracks blood pressure changes across multiple treatment groups using "dplyr" pipelines and visualizes the average metrics with "ggplot2".
+* **Files:** Drug_Efficacy_Analysis.ipynb
+
+### 3. Clinical Hypothesis Testing
+* **Stage:** Basic biostatistics & inferential statistics.
+
+* **Description:** A biostatistical script evaluating drug efficacy through hypothesis testing. It applies a Paired t-test to compare blood pressure metrics before and after treatment, computing p-values and 95% confidence intervals to confirm statistical significance.
+* **Files:** Clinical_Hypothesis_Testing.ipynb
+
+### 4. Predective Medical Modeling
+* **Stage:** Regression analysis & predective modeling.
+
+* **Description:** Implementing multiple linear regression (lm) to model and predict patient blood pressure based on physiological features like age ad weight.
+* **Files:** Linear_Regression.ipynb
+
+### 5. Multi-Group Clinical Comparison
+* **Stage:** Advanced biostatistics (ANOVA).
+
+* **Description:** Running analysis of Variance (aov) and Tukey's Post-Hoc tests to evaluate and compare statistical efficacy across multiple distinct drug families.
+* **Files:** ANOVA_Test.ipynb
+
+### 6. Clinical Data Cleaning & Preprocessing
+* **Stage:** Real-world data wrangling.
+
+* **Description:** Handling missing clinical observations (NA imputation) and filtering physiological outliers to prepare raw health datasets for safe analysis.
+* **Files:** Handling_Missing_Data_And_Outliers.ipynb
+
+---
+
+##  🛠 Skills Implemented (R Portfolio)
+- **Clinical Data Architecture & Wrangling:** Simulating reproducible patient cohorts and cleaning raw/incomplete healthcare datasets using Base R and Tidyverse (dplyr).
+- **Biostatistical Inference & Modling:** Applying advanced statistical tests (t.test, ANOVA) and predictive linear modeling (lm) to validate clinical hypothesis.
+- **Biomedical Visual Analytics:** Designing responsive charts and publication-grade graphs using foundational R graphics and professional ggplot2 themes.
+
+---
 
 ## 💡 How to explore
-Run the notebooks in Google Colab. Each file represents a different step in my learning journey.
+1. Ensure you are on the correct language branch ('Python-Projects' or 'R-Projects').
+2. Run the notebooks in Google Colab. Each file represents a different step in my learning journey.
